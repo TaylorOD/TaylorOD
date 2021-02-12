@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **TaylorOD/TaylorOD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,9 +14,10 @@ Here are some ideas to get you started:
 -->
 
 
-👋 Hey, I'm Taylor Dorsett.
+### 👋 Hey, I'm Taylor Dorsett.
 
-[Want to get better at technical interviews?](https://www.youtube.com/c/taylordorsett)
-[Want to see my website?](https://www.taylordorsett.com/)
+### [Want to get better at technical interviews?](https://www.youtube.com/c/taylordorsett)
+
+### [Want to see my website?](https://www.taylordorsett.com/)
 
 📫 Get in touch: dorsetttaylordev@gmail.com
