@@ -1,4 +1,4 @@
-### 👋 Hey, I'm Taylor Dorsett.
+### 👋  Hey, I'm Taylor Dorsett.
 
 [Want to see my website?](https://www.taylordorsett.com/)
 
