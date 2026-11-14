@@ -8,11 +8,11 @@ I like building small things people actually use, then giving them real tests, C
 
 | | |
 | --- | --- |
+| **[lilgotchi](https://github.com/TaylorOD/lilgotchi)** | A little pixel pet for your website. One line to install. Web Components and canvas. [Adopt one](https://www.taylordorsett.com/lilgotchi/) |
+| **[mr game and sweat](https://github.com/TaylorOD/mr-game-and-sweat)** | Reviews of video games you can play while you exercise. Over 500 of them. [ask game and sweat](https://github.com/TaylorOD/ask_game_and_sweat) is the RAG chatbot that answers from them. [Visit](https://mrgameandsweat.com) |
 | **[relay](https://github.com/TaylorOD/relay)** | Break things. See what holds. A systems reliability lab where you take a region offline and watch retries, routing and a circuit breaker handle it. TypeScript, React and Web Workers. [Try it](https://www.taylordorsett.com/relay/) |
 | **[moonbean coffee](https://github.com/TaylorOD/moonbean_coffee)** | I made up a whole coffee company so I could build a chatbot that answers from its employee handbook. RAG with Python, FastAPI, Pinecone and OpenAI, plus evals. [Try it](https://www.taylordorsett.com/moonbean_coffee/) |
-| **[mr game and sweat](https://github.com/TaylorOD/mr-game-and-sweat)** | Reviews of video games you can play while you exercise. Over 500 of them. [ask game and sweat](https://github.com/TaylorOD/ask_game_and_sweat) is the RAG chatbot that answers from them. [Visit](https://mrgameandsweat.com) |
 | **[snowcrust](https://github.com/TaylorOD/snowcrust)** | A tiny 3D pizza kitchen. Take the call, make the pizza, get it out the door. Three.js. [Play it](https://www.taylordorsett.com/snowcrust/) |
-| **[lilgotchi](https://github.com/TaylorOD/lilgotchi)** | A little pixel pet for your website. One line to install. Web Components and canvas. [Adopt one](https://www.taylordorsett.com/lilgotchi/) |
 | **[reachOutt](https://github.com/TaylorOD/reachOutt)** | Reminders to keep in touch with the people you care about. Rails and Vue. |
 | **[fight terminal](https://github.com/TaylorOD/fight-terminal)** | UFC schedules in your terminal. `npx fight-terminal this weekend` |
 | **[poker seater](https://github.com/TaylorOD/poker_seater)** | Random seats for my weekly poker game, so nobody thinks I'm giving myself the best one. [Shuffle](https://www.taylordorsett.com/poker_seater/) |
