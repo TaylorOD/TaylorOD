@@ -23,4 +23,4 @@ JavaScript, TypeScript, Ruby, Python, React, Vue, Rails, Node, FastAPI, Three.js
 
 ### Elsewhere
 
-[taylordorsett.com](https://www.taylordorsett.com/) · [LinkedIn](https://www.linkedin.com/in/taylordorsett/) · [YouTube](https://www.youtube.com/c/taylordorsett), where I work through technical interview questions
+[taylordorsett.com](https://www.taylordorsett.com/) · [YouTube](https://www.youtube.com/c/taylordorsett), where I work through technical interview questions
