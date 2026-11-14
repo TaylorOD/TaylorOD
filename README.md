@@ -16,6 +16,7 @@ I like building small things people actually use, then giving them real tests, C
 | **[reachOutt](https://github.com/TaylorOD/reachOutt)** | Reminders to keep in touch with the people you care about. Rails and Vue. |
 | **[fight terminal](https://github.com/TaylorOD/fight-terminal)** | UFC schedules in your terminal. `npx fight-terminal this weekend` |
 | **[poker seater](https://github.com/TaylorOD/poker_seater)** | Random seats for my weekly poker game, so nobody thinks I'm giving myself the best one. [Shuffle](https://www.taylordorsett.com/poker_seater/) |
+| **[taylordorsett.com](https://github.com/TaylorOD/taylorod.github.io)** | My site, where I'm written as a JavaScript object. Most of these projects live there too. Plain HTML, CSS and JavaScript on GitHub Pages. [Visit](https://www.taylordorsett.com/) |
 
 ### What I use
 
