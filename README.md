@@ -13,7 +13,7 @@ I like building small things people actually use, then giving them real tests, C
 | **[relay](https://github.com/TaylorOD/relay)** | Break things. See what holds. A systems reliability lab where you take a region offline and watch retries, routing and a circuit breaker handle it. TypeScript, React and Web Workers. [Try it](https://www.taylordorsett.com/relay/) |
 | **[moonbean coffee](https://github.com/TaylorOD/moonbean_coffee)** | I made up a whole coffee company so I could build a chatbot that answers from its employee handbook. RAG with Python, FastAPI, Pinecone and OpenAI, plus evals. [Try it](https://www.taylordorsett.com/moonbean_coffee/) |
 | **[snowcrust](https://github.com/TaylorOD/snowcrust)** | A tiny 3D pizza kitchen. Take the call, make the pizza, get it out the door. Three.js. [Play it](https://www.taylordorsett.com/snowcrust/) |
-| **[reachOutt](https://github.com/TaylorOD/reachOutt)** | Reminders to keep in touch with the people you care about. Rails and Vue. |
+| **[reachOutt](https://github.com/TaylorOD/reachOutt)** | Reminders to keep in touch with the people you care about. Rails and Vue. [Try it](https://reachoutt.onrender.com/) |
 | **[fight terminal](https://github.com/TaylorOD/fight-terminal)** | UFC schedules in your terminal. `npx fight-terminal this weekend` |
 | **[poker seater](https://github.com/TaylorOD/poker_seater)** | Random seats for my weekly poker game, so nobody thinks I'm giving myself the best one. [Shuffle](https://www.taylordorsett.com/poker_seater/) |
 | **[taylordorsett.com](https://github.com/TaylorOD/taylorod.github.io)** | My site, where I'm written as a JavaScript object. Most of these projects live there too. Plain HTML, CSS and JavaScript on GitHub Pages. [Visit](https://www.taylordorsett.com/) |
